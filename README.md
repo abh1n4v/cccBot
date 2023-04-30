@@ -29,8 +29,8 @@ pip install pynput
   ```
   if python is not found, try python3.
   
-7.As soon as u run, hover your mouse (DONT CLICK) over the "Check answers" button, then over the "Next" button and then over the "Submit Code" button.
-  Hover over each button for 2 seconds.
+7.Esc out of fullscreen mode if you are in fullscreen.
+  As soon as u run the code, hover your mouse (DONT CLICK) over the "Check answers" button, then over the "Next" button and then over the "Submit Code" button, each for 2 seconds.
   It is advisable that you keep your terminal open as a small window on your screen for this step so that you can see the prompts and know when to change buttons.
   Type in the number of CODING questions in the test and MAXIMISE YOUR BROWSER WINDOW.
 
@@ -42,7 +42,7 @@ pip install pynput
 WARNING:
 * Some questions have solutions which have more than 2500 characters. The free version of Text Blaze does not support them and hence these codes will not compile properly. You will manually have to fill in these questions.
 
-* Some questions have a different language set up by default. Make sure the questions are in C++(17)
+* Some questions have a different language set up by default. Make sure the questions are in C++(17) / Java(11) according to the given answer.
 
 * Some questions just dont work or take too long to compile. This is the LMS portal's fault and you will need to do those questions manually.
 
