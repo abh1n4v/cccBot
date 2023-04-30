@@ -30,9 +30,9 @@ pip install pynput
   if python is not found, try python3.
   
 7.Esc out of fullscreen mode if you are in fullscreen.
-  As soon as u run the code, hover your mouse (DONT CLICK) over the "Check answers" button, then over the "Next" button and then over the "Submit Code" button, each for 2 seconds.
-  It is advisable that you keep your terminal open as a small window on your screen for this step so that you can see the prompts and know when to change buttons.
-  Type in the number of CODING questions in the test and MAXIMISE YOUR BROWSER WINDOW.
+  As soon as u run the code, hover your mouse (DONT CLICK) over the "Check answers" button, then over the "Next" button and then over the "Submit Code" button, each for 2 seconds.  
+  It is advisable that you keep your terminal open as a small window on your screen for this step so that you can see the prompts and know when to change buttons.  
+  Type in the number of CODING questions in the test and MAXIMISE YOUR BROWSER WINDOW.  
 
 8. If all steps are done correctly, the bot should start automating the process for you.
 
